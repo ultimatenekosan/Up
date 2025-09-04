@@ -1,0 +1,29 @@
+NekoQuakeNow&NekoBousaiNow Project  
+
+1.目的
+・Web版やWindows版、Android版、iOS/iPadOS版などのマルチプラットフォームで使える地震ソフトウエアの作成。
+まずはWeb版を優先。
+
+2.機能
+  - EEW予報
+  - EEW警報
+  - 地震情報
+  - 津波情報
+  - 避難情報 
+  - 天気気象情報
+  - 通知機能 
+  - 通知の震度フィルター 
+  - 遡り取得機能（過去データ）
+など
+
+3.仮の外部リソースとして以下のAPI／ライブラリを使用予定： 
+- [Wolfx APIドキュメント](https://wolfx.jp/apidoc)
+- [P2PQuake JSON API](https://www.p2pquake.net/develop/)
+以上二つは将来的にProject-D.S.S.に置き換え
+
+4.ビルド方法
+- 使用IDE：Visual Studio（VS）
+
+5.現状
+プログラミングを分解したprogrammingのpの字も知らない。
+デザインは進行中。
